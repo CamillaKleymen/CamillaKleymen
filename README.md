@@ -26,9 +26,12 @@ A young ambitious programmer-developer who is confident that he will be able to 
 
 
 ### Badges
+[![trophy](https://github-profile-trophy.vercel.app/?username=CamillaKleymen)](https://github.com/ryo-ma/github-profile-trophy)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CamillaKleymen&theme=solarized_dark)
 <b>My GitHub Stats</b>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CamillaKleymen&theme=solarized_dark)
+
+
 
 <a href="http://www.github.com/CamillaKleymen/"><img src="https://github-readme-streak-stats.herokuapp.com/?user=CamillaKleymen/&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
