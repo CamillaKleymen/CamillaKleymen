@@ -9,7 +9,7 @@ A young ambitious programmer-developer who is confident that he will be able to 
 * 🌍  I'm based in Tashkent, Uzbekistan
 * 🖥️  See my portfolio at [CV and portfolio of Camilla Kleymen](http://185.104.249.10:7777)
 * ✉️  You can contact me at [camillakleymen@outlook.com](mailto:camillakleymen@outlook.com)
-* 🧠  I'm learning AI, JavaScript, PowerBI, 1C development
+* 🧠  I'm learning AI, REST Api, JavaScript, PowerBI, 1C development
 * 🤝  I'm open to collaborating on any type of projects and ready to turn my creativity on maximum
 
 ### Skills
