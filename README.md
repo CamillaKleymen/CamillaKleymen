@@ -26,10 +26,10 @@ A young ambitious programmer-developer who is confident that he will be able to 
 
 
 ### Badges
-[![trophy](https://github-profile-trophy.vercel.app/?username=CamillaKleymen)](https://github.com/ryo-ma/github-profile-trophy)
 
-<b>My GitHub Stats</b>
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CamillaKleymen&theme=solarized_dark)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
