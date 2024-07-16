@@ -26,17 +26,9 @@ A young ambitious programmer-developer who is confident that he will be able to 
 
 
 ### Badges
-name: Full-year calendar
-uses: lowlighter/metrics@latest
-with:
-  filename: metrics.plugin.isocalendar.fullyear.svg
-  token: ${{ secrets.METRICS_TOKEN }}
-  base: ""
-  plugin_isocalendar: yes
-  plugin_isocalendar_duration: full-year
+
 
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/CamillaKleymen/"><img src="https://github-readme-streak-stats.herokuapp.com/?user=CamillaKleymen/&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/CamillaKleymen/" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamillaKleymen/&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=6366f1&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
