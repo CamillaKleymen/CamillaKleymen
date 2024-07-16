@@ -26,7 +26,14 @@ A young ambitious programmer-developer who is confident that he will be able to 
 
 
 ### Badges
-[![trophy](https://github-profile-trophy.vercel.app/?username=CamillaKleymenryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+name: Full-year calendar
+uses: lowlighter/metrics@latest
+with:
+  filename: metrics.plugin.isocalendar.fullyear.svg
+  token: ${{ secrets.METRICS_TOKEN }}
+  base: ""
+  plugin_isocalendar: yes
+  plugin_isocalendar_duration: full-year
 
 <b>My GitHub Stats</b>
 
