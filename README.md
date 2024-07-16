@@ -26,7 +26,7 @@ A young ambitious programmer-developer who is confident that he will be able to 
 
 
 ### Badges
-[![trophy](https://github-profile-trophy.vercel.app/?CamillaKleymenryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=CamillaKleymenryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 <b>My GitHub Stats</b>
 
