@@ -27,6 +27,7 @@ A young ambitious programmer-developer who is confident that he will be able to 
 
 ### Badges
 
+![](https://github.com/CamillaKleymen-summary-cards.vercel.app/api/cards/profile-details?username=CamillaKleymendaniilshat&theme=solarized_dark)
 
 <b>My GitHub Stats</b>
 
