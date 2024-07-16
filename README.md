@@ -29,8 +29,7 @@ A young ambitious programmer-developer who is confident that he will be able to 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CamillaKleymen&theme=solarized_dark)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Camilla's GitHub stats](https://github-readme-stats.vercel.app/api?username=CamillaKleymen)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <a href="http://www.github.com/CamillaKleymen/"><img src="https://github-readme-streak-stats.herokuapp.com/?user=CamillaKleymen/&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
